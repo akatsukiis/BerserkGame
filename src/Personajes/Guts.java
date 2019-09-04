@@ -1,5 +1,10 @@
 package Personajes;
 
-public class Guts {
-private int vida;
+import Atributos.Personaje;
+
+public class Guts extends Personaje{
+	
+	
+	
+
 }
